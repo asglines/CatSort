@@ -1,0 +1,14 @@
+C:\Users\aglines\source\repos\CatSorter\CatSorter\bin\Debug\net8.0\CatSorter.exe
+C:\Users\aglines\source\repos\CatSorter\CatSorter\bin\Debug\net8.0\CatSorter.deps.json
+C:\Users\aglines\source\repos\CatSorter\CatSorter\bin\Debug\net8.0\CatSorter.runtimeconfig.json
+C:\Users\aglines\source\repos\CatSorter\CatSorter\bin\Debug\net8.0\CatSorter.dll
+C:\Users\aglines\source\repos\CatSorter\CatSorter\bin\Debug\net8.0\CatSorter.pdb
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.AssemblyInfoInputs.cache
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.AssemblyInfo.cs
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.csproj.CoreCompileInputs.cache
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.dll
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\refint\CatSorter.dll
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.pdb
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\CatSorter.genruntimeconfig.cache
+C:\Users\aglines\source\repos\CatSorter\CatSorter\obj\Debug\net8.0\ref\CatSorter.dll
